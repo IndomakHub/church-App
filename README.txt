@@ -1,6 +1,6 @@
 
 TITLE: 
-Groves Memorial Methodist Cathedral - 100% Fully Responsive Free HTML5 Bootstrap Template
+Church - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
